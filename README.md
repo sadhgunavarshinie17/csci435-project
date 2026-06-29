@@ -4,14 +4,14 @@ University of Wollongong in Dubai
 CSCI435 – Computer Vision Algorithms and Systems
 
 ## Team Members
--
--
--
--
-- 
+Roshni Faisal Moten
+Mariam Siddiqui
+Fathima Hashim
+Sadhguna Kumar
+Denis Rylov
 
 ## Project Topic
-To be finalized.
+Smart Gym Form Analyzer
 
 ## Repository Structure
 
@@ -45,3 +45,6 @@ After coding:
 - git add .
 - git commit -m "meaningful message"
 - git push
+
+  Files are too large for GitHub and are available here:
+https://uowmailedu-my.sharepoint.com/:u:/g/personal/svsk777_uowmail_edu_au/IQCf40iAH4JvR4QekJKVaEXZAd_0fEhHmnfrMwEP3Q8YTHc
