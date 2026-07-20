@@ -8,7 +8,7 @@ Roshni Faisal Moten •
 Mariam Siddiqui •
 Fathima Hashim •
 Sadhguna Kumar •
-Denis Rylov •
+Denis Rylov
 
 ## Project Topic
 Smart Gym Form Analyzer
