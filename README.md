@@ -25,26 +25,5 @@ Smart Gym Form Analyzer
 - tests → testing scripts
 - assets → demo media
 
-## Setup
-Instructions coming soon.
-
-## IMPORTANT RULES FOR TEAM
-
-### NEVER:
-
-- push directly to main
-- upload datasets bigger than GitHub limits
-- upload venv folder
-
-### ALWAYS:
-
-Before coding:
-- git pull
-
-After coding:
-- git add .
-- git commit -m "meaningful message"
-- git push
-
-  Files are too large for GitHub and are available here:
+Files are too large for GitHub and are available here:
 https://uowmailedu-my.sharepoint.com/:u:/g/personal/svsk777_uowmail_edu_au/IQCf40iAH4JvR4QekJKVaEXZAd_0fEhHmnfrMwEP3Q8YTHc
